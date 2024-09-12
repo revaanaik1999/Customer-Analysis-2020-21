@@ -38,3 +38,5 @@ The analysis provides business leaders with a better understanding of how differ
 * Monthly Revenue: A month-by-month revenue breakdown helps identify peak months for sales. For instance, the highest revenue is seen in the month of June.
 * Revenue by Region: A pie chart dividing the total revenue by region (e.g., South, Midwest, West, and Northeast), with the South leading in overall contribution.
 * Revenue by Category and Gender: A bar chart comparing the purchasing patterns of male and female customers across various product categories, such as Mobiles & Tablets, Kids & Baby, and Health & Sports.
+
+![Tableau Dashboard](dashboard.png)
